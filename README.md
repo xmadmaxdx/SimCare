@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SimCare
 
 ## Local Development
@@ -23,3 +24,6 @@ To start the development server, run
 ```shell
 npm run dev
 ```
+=======
+# SimCare
+>>>>>>> 0b00ed3f4f6ebfda43b719d618b85aab68a15275
